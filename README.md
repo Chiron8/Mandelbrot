@@ -1,4 +1,4 @@
-Mandelbrot set visualizer using python and PIL
+#Mandelbrot set visualizer using python and PIL
 
 `main.py` generates half the image then flips it
 
