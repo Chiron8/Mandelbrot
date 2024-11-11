@@ -1,1 +1,4 @@
-Currently just the base file using PIL. I haven't put my actual code up yet :(
+Mandelbrot set visualizer using python and PIL
+
+`main.py` generates half the image then flips it
+`noflip.py` generates the whole image (for images that are not symetrical)
