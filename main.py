@@ -3,7 +3,7 @@ import time
 
 start = time.time()
 
-resolution = 3000
+resolution = 3000 # image resolutionxresolution
 passes = 200
 col = ()
 
