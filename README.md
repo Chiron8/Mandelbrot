@@ -4,4 +4,4 @@
 
 `noflip.py` generates the whole image (for images that are not symetrical)
 
-
+<img src=https://github.com/Chiron8/Mandelbrot/output.jpg>
